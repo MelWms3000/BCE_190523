@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-05-23_2034",
-    "currentPage": "page2.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "educationm4",
       "title": "EducationM4",
@@ -6588,7 +6588,7 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"https://fs17.formsite.com/include/form/embedManager.js?1923298838\"></script>",
-            "<script>EmbedManager.embed({\tkey: \"https://fs17.formsite.com/res/showFormEmbed?EParam=B6fiTn-RcO526TeGvUN4FzM1wxFNPIs-FzpUCZwnDno&1923298838\",\twidth: \"100%\",\tshowFormLogin: false,\tmobileResponsive: true});</script>"
+            "<script>EmbedManager.embed({\tkey: \"https://fs17.formsite.com/res/showFormEmbed?EParam=B6fiTn-RcO526TeGvUN4FzM1wxFNPIs-FzpUCZwnDno&1923298838\",\twidth: \"100%\",\tshowFormLogin: true,\tmobileResponsive: true});</script>"
           ]
         }
       ]
